@@ -25,6 +25,8 @@ To use this Password Generator, We first click on the "generate password" button
 
 ## URL to Password Generator website
 
+https://zechariahmn.github.io/Password-Generator/
+
 ## Credits
 
 N/A
